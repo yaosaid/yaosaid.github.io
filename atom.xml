@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>遥言</title>
+  <title>Yao 知言</title>
   
-  <subtitle>遥言不由衷</subtitle>
+  <subtitle>言不由衷</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
