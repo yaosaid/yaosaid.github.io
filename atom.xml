@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>遥言</title>
+  
+  <subtitle>遥言不由衷</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-08T16:24:35.688Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>yaosaid</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何记账和理财-少数派文章摘录</title>
+    <link href="http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai-shao-shu-pai-wen-zhang-zhai-lu/"/>
+    <id>http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai-shao-shu-pai-wen-zhang-zhai-lu/</id>
+    <published>2020-05-08T16:23:59.000Z</published>
+    <updated>2020-05-08T16:24:35.688Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;分为三大部分:记账、预算、理财&lt;/p&gt;
+&lt;h1 id=&quot;如何记账？收付实现制和投资记账&quot;&gt;&lt;a href=&quot;#如何记账？收付实现制和投资记账&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/09/hello-world/"/>
+    <id>http://yoursite.com/2020/05/09/hello-world/</id>
+    <published>2020-05-08T16:11:13.949Z</published>
+    <updated>2020-05-08T16:11:13.949Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
