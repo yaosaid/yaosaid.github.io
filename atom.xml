@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-08T16:24:35.688Z</updated>
+  <updated>2020-05-09T14:37:41.021Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,45 +21,19 @@
     <link href="http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai-shao-shu-pai-wen-zhang-zhai-lu/"/>
     <id>http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai-shao-shu-pai-wen-zhang-zhai-lu/</id>
     <published>2020-05-08T16:23:59.000Z</published>
-    <updated>2020-05-08T16:24:35.688Z</updated>
+    <updated>2020-05-09T14:37:41.021Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;分为三大部分:记账、预算、理财&lt;/p&gt;
-&lt;h1 id=&quot;如何记账？收付实现制和投资记账&quot;&gt;&lt;a href=&quot;#如何记账？收付实现制和投资记账&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;p&gt;分为三大部分:记账、预算、理财。收付实现制和投资记账。信用卡记账，建议用收付实现制，就是每笔消费和转账都马上记录。这样的好处：- 任何时间每个账户上的余额都是对的；- 支出曲线有参考价值；- 可以用每个月银行给的对账单来对账——保证自己的记录是准确的，自己的卡没有被盗刷，回顾这个月这个卡的收支情况&lt;/p&gt;
     
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/09/hello-world/"/>
-    <id>http://yoursite.com/2020/05/09/hello-world/</id>
-    <published>2020-05-08T16:11:13.949Z</published>
-    <updated>2020-05-08T16:11:13.949Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
+      <category term="技巧" scheme="http://yoursite.com/tags/%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
