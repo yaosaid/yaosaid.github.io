@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-09T14:56:20.758Z</updated>
+  <updated>2020-05-10T13:25:06.110Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>如何记账和理财-少数派文章摘录</title>
-    <link href="http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai-shao-shu-pai-wen-zhang-zhai-lu/"/>
-    <id>http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai-shao-shu-pai-wen-zhang-zhai-lu/</id>
-    <published>2020-05-08T16:23:59.000Z</published>
-    <updated>2020-05-09T14:56:20.758Z</updated>
+    <title>记账软件的选择-随手记、钱迹、那样记账、圈子账本</title>
+    <link href="http://yoursite.com/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/"/>
+    <id>http://yoursite.com/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/</id>
+    <published>2020-05-10T12:00:00.000Z</published>
+    <updated>2020-05-10T13:25:06.110Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;分为三大部分:记账、预算、理财&lt;/p&gt;
-&lt;h1 id=&quot;如何记账？收付实现制和投资记账&quot;&gt;&lt;a href=&quot;#如何记账？收付实现制和投资记账&quot; class=&quot;headerlink&quot; title=&quot;如何记账？收付实现制和投资记账&quot;&gt;&lt;/a&gt;如何记账？收付实现制和投资记账&lt;/h1&gt;&lt;h2 id=&quot;收付实现制&quot;&gt;&lt;a href=&quot;#收付实现制&quot; class=&quot;headerlink&quot; title=&quot;收付实现制&quot;&gt;&lt;/a&gt;收付实现制&lt;/h2&gt;&lt;p&gt;信用卡记账，建议用收付实现制，就是每笔消费和转账都马上记录。这样的好处：&lt;/p&gt;
+      &lt;p&gt;记账应用最重要的是什么？在我看来应该是安全、稳定和功能，最后才是外观。它的门槛不高，许多小厂或个人都开发过。小而美的记账应用层出不穷，外观赏心悦目，但后续更新和安全实在令人担忧。它们更适合用于入门，培养记账习惯。毕竟好看的应用你总乐意去打开，使用几率会高一点。这些应用记录流水也足够。随着我们对记账的要求逐渐提高，功能丰富和数据稳定的需求便占了上风。老牌应用的优势便显现出来。&lt;/p&gt;
+&lt;p&gt;我用过随手记、钱迹、那样记账、圈子账本，新手入门推荐钱迹，长期使用推荐随手记。不推荐任何互联网企业的记账，如网易有钱等。你要知道，互联网公司基本上靠卖广告。你才是他们的商品，完全没有隐私可言。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="居家生活" scheme="http://yoursite.com/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="工具 理财" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7-%E7%90%86%E8%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何记账和理财-少数派文章摘录</title>
+    <link href="http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai/"/>
+    <id>http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai/</id>
+    <published>2020-05-08T16:23:59.000Z</published>
+    <updated>2020-05-10T01:41:24.036Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;分为三大部分:记账、预算、理财&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;收付实现制和投资记账&quot;&gt;&lt;a href=&quot;#收付实现制和投资记账&quot; class=&quot;headerlink&quot; title=&quot;收付实现制和投资记账&quot;&gt;&lt;/a&gt;收付实现制和投资记账&lt;/h2&gt;&lt;p&gt;这是解决“如何记”的问题&lt;/p&gt;
+&lt;h3 id=&quot;收付实现制&quot;&gt;&lt;a href=&quot;#收付实现制&quot; class=&quot;headerlink&quot; title=&quot;收付实现制&quot;&gt;&lt;/a&gt;收付实现制&lt;/h3&gt;&lt;p&gt;信用卡记账，建议用收付实现制，就是每笔消费和转账都马上记录。这样的好处：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;任何时间每个账户上的余额都是对的；&lt;/li&gt;
 &lt;li&gt;支出曲线有参考价值；&lt;/li&gt;
@@ -36,10 +61,10 @@
     </summary>
     
     
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+      <category term="居家生活" scheme="http://yoursite.com/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="技巧" scheme="http://yoursite.com/tags/%E6%8A%80%E5%B7%A7/"/>
+      <category term="方法 理财" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95-%E7%90%86%E8%B4%A2/"/>
     
   </entry>
   
