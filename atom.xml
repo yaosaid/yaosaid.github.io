@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-10T13:25:06.110Z</updated>
+  <updated>2020-05-26T04:10:55.264Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>matlab 重复测量方差分析容易疏忽的一个错误</title>
+    <link href="http://yoursite.com/2020/05/25/matlab-repeated-anova/"/>
+    <id>http://yoursite.com/2020/05/25/matlab-repeated-anova/</id>
+    <published>2020-05-25T13:00:00.000Z</published>
+    <updated>2020-05-26T04:10:55.264Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在用matlab做重复测量方差分析(Repeated Measures ANOVA)时，输出结果里自由度(df)始终为1，非常不正常。而仔细检查代码，甚至按照matlab文档一步步复制粘贴，问题还是存在。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="学习工作" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="Matlab" scheme="http://yoursite.com/tags/Matlab/"/>
+    
+      <category term="统计" scheme="http://yoursite.com/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>记账软件的选择-随手记、钱迹、那样记账、圈子账本</title>
     <link href="http://yoursite.com/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/"/>
     <id>http://yoursite.com/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/</id>
     <published>2020-05-10T12:00:00.000Z</published>
-    <updated>2020-05-10T13:25:06.110Z</updated>
+    <updated>2020-05-10T13:30:53.862Z</updated>
     
     <summary type="html">
     
@@ -34,7 +57,9 @@
       <category term="居家生活" scheme="http://yoursite.com/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="工具 理财" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7-%E7%90%86%E8%B4%A2/"/>
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="理财" scheme="http://yoursite.com/tags/%E7%90%86%E8%B4%A2/"/>
     
   </entry>
   
@@ -43,7 +68,7 @@
     <link href="http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai/"/>
     <id>http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai/</id>
     <published>2020-05-08T16:23:59.000Z</published>
-    <updated>2020-05-10T01:41:24.036Z</updated>
+    <updated>2020-05-25T16:26:57.500Z</updated>
     
     <summary type="html">
     
@@ -64,7 +89,9 @@
       <category term="居家生活" scheme="http://yoursite.com/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="方法 理财" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95-%E7%90%86%E8%B4%A2/"/>
+      <category term="理财" scheme="http://yoursite.com/tags/%E7%90%86%E8%B4%A2/"/>
+    
+      <category term="方法" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   

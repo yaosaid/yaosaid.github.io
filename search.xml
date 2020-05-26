@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>matlab 重复测量方差分析容易疏忽的一个错误</title>
+      <link href="/2020/05/25/matlab-repeated-anova/"/>
+      <url>/2020/05/25/matlab-repeated-anova/</url>
+      
+        <content type="html"><![CDATA[<p>在用matlab做重复测量方差分析(Repeated Measures ANOVA)时，输出结果里自由度(df)始终为1，非常不正常。而仔细检查代码，甚至按照matlab文档一步步复制粘贴，问题还是存在。</p><a id="more"></a><p>那么很显然，只可能是数据结构上的问题。matlab文档里直接读取了样例数据，而我是从原始数据读入、处理的。可是我又把样例数据粘贴到自己的数据中，依然没能解决这一问题。Google了一番，我终于发现，问题出在变量因子的数据格式。</p><h1><span id="标题1">标题1</span></h1><h2><span id="标题2">标题2</span></h2><h3><span id="标题3">标题3</span></h3><h1><span id></span></h1><h1><span id="图片测试">图片测试</span></h1><p>![图片测试](matlab repeated ANOVA/matlab.jfif)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习工作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> 统计 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>记账软件的选择-随手记、钱迹、那样记账、圈子账本</title>
       <link href="/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/"/>
       <url>/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/</url>
@@ -20,7 +47,9 @@
       
         <tags>
             
-            <tag> 工具 理财 </tag>
+            <tag> 工具 </tag>
+            
+            <tag> 理财 </tag>
             
         </tags>
       
@@ -45,7 +74,9 @@
       
         <tags>
             
-            <tag> 方法 理财 </tag>
+            <tag> 理财 </tag>
+            
+            <tag> 方法 </tag>
             
         </tags>
       
