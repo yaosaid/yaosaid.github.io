@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-28T03:35:21.762Z</updated>
+  <updated>2020-05-28T03:37:18.198Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/05/25/matlab-repeated-anova/"/>
     <id>http://yoursite.com/2020/05/25/matlab-repeated-anova/</id>
     <published>2020-05-25T13:00:00.000Z</published>
-    <updated>2020-05-28T03:35:21.762Z</updated>
+    <updated>2020-05-28T03:37:18.198Z</updated>
     
     <summary type="html">
     
@@ -34,9 +34,9 @@
       <category term="学习工作" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C/"/>
     
     
-      <category term="Matlab" scheme="http://yoursite.com/tags/Matlab/"/>
-    
       <category term="统计" scheme="http://yoursite.com/tags/%E7%BB%9F%E8%AE%A1/"/>
+    
+      <category term="matlab" scheme="http://yoursite.com/tags/matlab/"/>
     
   </entry>
   
