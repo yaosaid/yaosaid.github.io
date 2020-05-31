@@ -41,11 +41,35 @@
   </entry>
   
   <entry>
+    <title>Hexo+Github+Ocean 小白的博客搭建笔记</title>
+    <link href="http://yoursite.com/2020/05/25/hexo-github-ocean-bo-ke/"/>
+    <id>http://yoursite.com/2020/05/25/hexo-github-ocean-bo-ke/</id>
+    <published>2020-05-25T13:00:00.000Z</published>
+    <updated>2020-05-31T03:50:03.516Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/2020/05/25/hexo-github-ocean-bo-ke/fig.0_Hexo+Github+Ocean.png&quot; alt=&quot;fig.0 题图&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这是小白搭建博客的学习笔记。其实网络上已经有很多教程了，按照上面的要求，一步一步就可以完成自己的博客搭建。这里记录一下流程和问题。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="工具方法" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/"/>
+    
+    
+      <category term="Github" scheme="http://yoursite.com/tags/Github/"/>
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>记账软件的选择-随手记、钱迹、那样记账、圈子账本</title>
     <link href="http://yoursite.com/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/"/>
     <id>http://yoursite.com/2020/05/10/ji-zhang-ruan-jian-de-xuan-ze/</id>
     <published>2020-05-10T12:00:00.000Z</published>
-    <updated>2020-05-10T13:30:53.862Z</updated>
+    <updated>2020-05-30T03:06:31.000Z</updated>
     
     <summary type="html">
     
@@ -55,7 +79,7 @@
     </summary>
     
     
-      <category term="居家生活" scheme="http://yoursite.com/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/"/>
+      <category term="工具方法" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/"/>
     
     
       <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
@@ -69,7 +93,7 @@
     <link href="http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai/"/>
     <id>http://yoursite.com/2020/05/09/ru-he-ji-zhang-he-li-cai/</id>
     <published>2020-05-08T16:23:59.000Z</published>
-    <updated>2020-05-25T16:26:57.500Z</updated>
+    <updated>2020-05-30T03:06:44.000Z</updated>
     
     <summary type="html">
     
@@ -87,7 +111,7 @@
     </summary>
     
     
-      <category term="居家生活" scheme="http://yoursite.com/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/"/>
+      <category term="工具方法" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/"/>
     
     
       <category term="理财" scheme="http://yoursite.com/tags/%E7%90%86%E8%B4%A2/"/>
