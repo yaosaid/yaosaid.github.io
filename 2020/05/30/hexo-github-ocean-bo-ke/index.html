@@ -142,6 +142,12 @@ wenzhang.md</code></pre><p>文章中插入图片时，按照markdown的插入图
 <p>来源: Yu‘s Note<br>链接: <a href="https://wangxiaoyu-go.github.io/2018/11/18/hexo-asset-image/" target="_blank" rel="noopener">https://wangxiaoyu-go.github.io/2018/11/18/hexo-asset-image/</a></p>
 </blockquote>
 <p>实际使用时，手动新建同名文件夹即可。不需要插图的文章，就不用多此一举了。</p>
+<h2><span id="文章封面图">文章封面图</span></h2><p>标准方法应该是页面前引入，将图片放在themes/ocean/source/images目录，也可以再新建一个CoverImage子文件夹专门存放。</p>
+<pre><code>title: article
+date: 2020-05-30 20:00:00
+photos: [
+        [&quot;/images/yourimage.jpg&quot;], // themes/ocean/source/images目录下
+        [&quot;https://image_url.jpg&quot;]] //在首页只会显示第一张，详情页会按顺序显示这两张</code></pre><p>但是这样图片资源和文章是分割的，也很不方便。于是我采用了更简单的做法，直接在正文开头插入图片做封面图片，然后用<code>&lt;!--more&gt;</code>区分摘要部分和正文部分。效果是完全一样的。但是换其他主题不一定行。</p>
 <h2><span id="首页文章折叠-阅读更多">首页文章折叠-阅读更多</span></h2><p>在摘要和正文之间加入 <code>&lt;!--more--&gt;</code> 即可。题图也可以放在摘要中。</p>
 <h2><span id="文章评论区">文章评论区</span></h2><p>参考<a href="https://zhwangart.github.io/2018/12/06/Gitalk/" target="_blank" rel="noopener">Gitalk 的使用</a>，忽略“引入Gitalk”一节和“用法”一节的前半部分。由于Ocean主题都配置好了，只需要：</p>
 <ol>
