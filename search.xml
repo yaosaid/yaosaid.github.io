@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>CPU架构的小知识：ARM、x86、AMD、Intel</title>
+      <link href="/2020/06/30/arm-he-x86/"/>
+      <url>/2020/06/30/arm-he-x86/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>CISC(复杂指令集计算机)和RISC(精简指令集计算机)是当前CPU的两种架构。它们的区别在于不同的CPU设计理念和方法。早期的CPU全部是CISC架构，它的设计目的是 CISC要用最少的机器语言指令来完成所需的计算任务。</p><p>RISC和CISC是设计制造微处理器的两种典型技术，虽然它们都是试图在体系结构、操作运行、软件硬件、编译时间和运行时间等诸多因素中做出某种平衡，以求达到高效的目的，但采用的方法不同，因此，在很多方面差异很大。</p></blockquote><a id="more"></a><ul><li><p><strong>RISC(精简指令集计算机)     x86</strong></p></li><li><ul><li><p>英特尔Intel首创，AMD拿到授权</p><ul><li><ul><li>后来Intel向64位过渡，开发x64，但不兼容x86，市场反响差<ul><li>AMD 搞了兼容的x86-64，又称为       AMD-64，反向授权给Intel。</li></ul></li></ul></li><li><p>Intel以增加处理器本身复杂度作为代价，去换取更高的性能，不断加入指令集，使得处理器日益庞大</p></li><li><p>PC架构霸主，性能强悍，功耗高</p></li></ul></li></ul></li><li><p><strong>CISC(复杂指令集计算机)     ARM</strong></p></li><li><ul><li><p>ARM成立于1991年，授权架构。</p><ul><li><ul><li>苹果、Acorn、VLSI、Technology等公司的合资企业</li></ul></li><li><p>简化架构，仅保留所需要的指令，拥有小体积、高效能、低成本、低耗电，适用移动领域</p></li><li><p>小型设备控制，如硬盘转速控制、电信基地台的计算、汽车喷射引擎的控制、音响系统、相机引擎、电动机具的控制等等</p></li></ul></li></ul></li><li><p><strong>mips</strong></p></li><li><ul><li>学院派的cpu，授权门槛极低，因此很多厂家都做mips或者mips衍生架构<ul><li>我们平时接触到的mips架构cpu主要用在嵌入式领域，比如路由器。</li><li>纯计算能力很强</li><li>中国的龙芯，其loongisa架构其实是mips的扩展</li></ul></li></ul></li></ul><p>参考资料</p><ul><li><a href="https://www.cnblogs.com/CZM-/p/9611312.html" target="_blank" rel="noopener">ARM与X86 CPU架构区别</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数码生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数码 </tag>
+            
+            <tag> 计算机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo+Github+Ocean 小白的博客搭建笔记</title>
       <link href="/2020/05/30/hexo-github-ocean-bo-ke/"/>
       <url>/2020/05/30/hexo-github-ocean-bo-ke/</url>

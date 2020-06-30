@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-01T02:04:03.718Z</updated>
+  <updated>2020-06-30T02:27:58.295Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CPU架构的小知识：ARM、x86、AMD、Intel</title>
+    <link href="http://yoursite.com/2020/06/30/arm-he-x86/"/>
+    <id>http://yoursite.com/2020/06/30/arm-he-x86/</id>
+    <published>2020-06-30T00:00:00.000Z</published>
+    <updated>2020-06-30T02:27:58.295Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;CISC(复杂指令集计算机)和RISC(精简指令集计算机)是当前CPU的两种架构。它们的区别在于不同的CPU设计理念和方法。早期的CPU全部是CISC架构，它的设计目的是 CISC要用最少的机器语言指令来完成所需的计算任务。&lt;/p&gt;
+&lt;p&gt;RISC和CISC是设计制造微处理器的两种典型技术，虽然它们都是试图在体系结构、操作运行、软件硬件、编译时间和运行时间等诸多因素中做出某种平衡，以求达到高效的目的，但采用的方法不同，因此，在很多方面差异很大。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="数码生活" scheme="http://yoursite.com/categories/%E6%95%B0%E7%A0%81%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="数码" scheme="http://yoursite.com/tags/%E6%95%B0%E7%A0%81/"/>
+    
+      <category term="计算机" scheme="http://yoursite.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Hexo+Github+Ocean 小白的博客搭建笔记</title>
