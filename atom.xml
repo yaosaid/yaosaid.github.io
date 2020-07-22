@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-30T02:27:58.295Z</updated>
+  <updated>2020-07-22T00:22:01.097Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Zettelkasten 卡片盒笔记法与我的笔记流程</title>
+    <link href="http://yoursite.com/2020/07/22/zettelkasten-qia-pian-he-bi-ji-fa/"/>
+    <id>http://yoursite.com/2020/07/22/zettelkasten-qia-pian-he-bi-ji-fa/</id>
+    <published>2020-07-22T00:00:00.000Z</published>
+    <updated>2020-07-22T00:22:01.097Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我的笔记存在四个地方。印象笔记用来收录剪藏，是一个杂货铺，什么都可以往里面放。OneNote用来整理，和传统的笔记本一样，放着课程、学习等成体系的记录。Typora用来写作，可以发布出去。文献笔记则是用Zotero书写，放在文献条目中。前两者用自带同步，后两者配合坚果云同步，在不同设备上都可以得到相同的内容。不过，只有OneNote中的内容能够称为“知识笔记”，印象笔记和Zotero里的都需要整理进去，而Typora里就已经是输出内容了。这四样搭配也就成为了我的笔记流程。&lt;/p&gt;
+&lt;p&gt;但是以前的笔记存在一些问题，我又了解了一下Zettelkasten 卡片盒笔记法。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="工具方法" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/"/>
+    
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="知识管理" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>CPU架构的小知识：ARM、x86、AMD、Intel</title>
