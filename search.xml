@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>云端和订阅时代的本地遗民</title>
+      <link href="/2020/07/26/yun-duan-he-ding-yue-shi-dai-de-ben-di-yi-min/"/>
+      <url>/2020/07/26/yun-duan-he-ding-yue-shi-dai-de-ben-di-yi-min/</url>
+      
+        <content type="html"><![CDATA[<p>以前我也曾是云端时代的拥护者，存入云端、处处可用的场景一直吸引着我。微软将onedrive引入，苹果的iclud生态，以及曾经云盘大战的时代，我都一一尝试过。</p><p>但是，随着对数据安全和隐私的关注提高，我越来越信赖本地备份了。随着各家网盘的倒闭，以及百度云的限速，icloud搬入贵州，唯一屹立不倒的恐怕只有OneDrive。我当然也离不开云，我的工作文档都放在坚果云中，在pc和笔记本中都可以同步，无缝衔接。但是自己的额外本地备份才让我更加安心。</p><p>云端，越来越不可缺少。但是，本地数据才完全属于你。永远不要完全相信云端。</p><a id="more"></a><h1><span id="onenote-新版备份问题">OneNote 新版备份问题</span></h1><p>然而，OneNote的最新发展让我难接受。微软不再更新OneNote2019系列，而是推出 OneNote uwp。新的OneNote据说还会不断加入新功能。但是我尝试了几天后又放弃了，原因很简单：它没有本地备份文件，只有无法读取的本地缓存。很明显，如果云端或传输中出了问题，OneNote uwp将无法从本地导出或恢复。</p><p><a href="https://answers.microsoft.com/zh-hans/msoffice/forum/all/onenote%E5%AD%98%E5%82%A8%E7%9A%84%E4%BD%8D/465ecf41-96db-4d07-a43e-080153448060" target="_blank" rel="noopener">onenote存储的位置在哪？如何备份文件？</a></p><blockquote><p>我使用的是OneNote for Windows 10，但是在软件的上方显示“OneNote 无法同步笔记，因为帐户空间不足。 了解详细信息” 和“已脱机保存”；所以现在可以肯定的是，我的笔记并没有存储在onedrive中，而是存在电脑上。请告诉我应该如何备份笔记？如何找到存储的位置？<br>首先，我电脑提示的是“账户空间不足”，不是电脑本地存储空间不足，你发给我的图片是解决本地空间不足的；第二，我说了我的版本是onenote for win 10，不是onenote 2016，你发的图片中“备份”功能只有onenote2016版才有，我的onenote for win 10中是没有的。所以你能帮我切实解决一下问题吗？<br>而论坛中的回答是：很抱歉，OneNote for Windows 10的笔记，在本地是缓存问题，并不是移动及编辑的包文件，导出后可能会出现无法识别的问题。</p></blockquote><p>这很像另外一款笔记软件‘Notion’，同样是没有本地文件，全部、实时存在云端。我该怎样完全信任他们的服务呢？我的数据不能由我自己掌握吗？这类笔记软件我会敬而远之。</p><h1><span id="软件的订阅制-流媒体">软件的订阅制、流媒体</span></h1><p>和云端时代一起到来的还有订阅制。你必须维持订阅，才能够获得服务。这种收费方式对于用户和开发者都是有好处的。用户可以以一个较小的代价开始尝试，而开发者可以获得源源不断的收入，便于长期维护。</p><p>但是，我无法完全接受流媒体，例如apple music。虽然你可以以很小的代价获得所有资源的访问权，但这一切都是暂时的。一旦你停止订阅，任何一丁点资源都无法获得了。因此我选择了qq音乐会员，即使你停止订阅，依然可以播放音乐。同时，作为会员，我选择把音乐都下载下来，转码为通用格式，用本地播放器播放。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常点滴 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数码 </tag>
+            
+            <tag> 故事 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一个小号的故事</title>
       <link href="/2020/07/25/yi-ge-xiao-hao-de-gu-shi/"/>
       <url>/2020/07/25/yi-ge-xiao-hao-de-gu-shi/</url>
@@ -19,33 +46,6 @@
       
       
         <tags>
-            
-            <tag> 故事 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>云端和订阅时代的本地遗民</title>
-      <link href="/2020/07/25/yun-duan-he-ding-yue-shi-dai-de-ben-di-yi-min/"/>
-      <url>/2020/07/25/yun-duan-he-ding-yue-shi-dai-de-ben-di-yi-min/</url>
-      
-        <content type="html"><![CDATA[<p>以前我也曾是云端时代的拥护者，存入云端、处处可用的场景一直吸引着我。微软将onedrive引入，苹果的iclud生态，以及曾经云盘大战的时代，我都一一尝试过。</p><p>但是，随着对数据安全和隐私的关注提高，我越来越信赖本地备份了。随着各家网盘的倒闭，以及百度云的限速，icloud搬入贵州，唯一屹立不倒的恐怕只有OneDrive。我当然也离不开云，我的工作文档都放在坚果云中，在pc和笔记本中都可以同步，无缝衔接。但是自己的额外本地备份才让我更加安心。</p><p>云端，越来越不可缺少。但是，本地数据才完全属于你。永远不要完全相信云端。</p><a id="more"></a><h1><span id="onenote-新版备份问题">OneNote 新版备份问题</span></h1><p>然而，OneNote的最新发展让我难接受。微软不再更新OneNote2019系列，而是推出 OneNote uwp。新的OneNote据说还会不断加入新功能。但是我尝试了几天后又放弃了，原因很简单：它没有本地备份文件，只有无法读取的本地缓存。很明显，如果云端或传输中出了问题，OneNote uwp将无法从本地导出或恢复。</p><p><a href="https://answers.microsoft.com/zh-hans/msoffice/forum/all/onenote%E5%AD%98%E5%82%A8%E7%9A%84%E4%BD%8D/465ecf41-96db-4d07-a43e-080153448060" target="_blank" rel="noopener">onenote存储的位置在哪？如何备份文件？</a></p><blockquote><p>我使用的是OneNote for Windows 10，但是在软件的上方显示“OneNote 无法同步笔记，因为帐户空间不足。 了解详细信息” 和“已脱机保存”；所以现在可以肯定的是，我的笔记并没有存储在onedrive中，而是存在电脑上。请告诉我应该如何备份笔记？如何找到存储的位置？<br>首先，我电脑提示的是“账户空间不足”，不是电脑本地存储空间不足，你发给我的图片是解决本地空间不足的；第二，我说了我的版本是onenote for win 10，不是onenote 2016，你发的图片中“备份”功能只有onenote2016版才有，我的onenote for win 10中是没有的。所以你能帮我切实解决一下问题吗？<br>而论坛中的回答是：很抱歉，OneNote for Windows 10的笔记，在本地是缓存问题，并不是移动及编辑的包文件，导出后可能会出现无法识别的问题。</p></blockquote><p>这很像另外一款笔记软件‘Notion’，同样是没有本地文件，全部、实时存在云端。我该怎样完全信任他们的服务呢？我的数据不能由我自己掌握吗？这类笔记软件我会敬而远之。</p><h1><span id="软件的订阅制-流媒体">软件的订阅制、流媒体</span></h1><p>和云端时代一起到来的还有订阅制。你必须维持订阅，才能够获得服务。这种收费方式对于用户和开发者都是有好处的。用户可以以一个较小的代价开始尝试，而开发者可以获得源源不断的收入，便于长期维护。</p><p>但是，我无法完全接受流媒体，例如apple music。虽然你可以以很小的代价获得所有资源的访问权，但这一切都是暂时的。一旦你停止订阅，任何一丁点资源都无法获得了。因此我选择了qq音乐会员，即使你停止订阅，依然可以播放音乐。同时，作为会员，我选择把音乐都下载下来，转码为通用格式，用本地播放器播放。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 日常点滴 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 数码 </tag>
             
             <tag> 故事 </tag>
             
@@ -153,9 +153,9 @@
       
         <tags>
             
-            <tag> 统计 </tag>
-            
             <tag> matlab </tag>
+            
+            <tag> 统计 </tag>
             
         </tags>
       
@@ -207,9 +207,9 @@
       
         <tags>
             
-            <tag> 理财 </tag>
-            
             <tag> 方法 </tag>
+            
+            <tag> 理财 </tag>
             
         </tags>
       
