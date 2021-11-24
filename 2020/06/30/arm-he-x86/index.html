@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  
+  
+  
+    <meta name="description" content="一个写作、记录的小站，督促自己">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>
+    CPU架构的小知识：ARM、x86、AMD、Intel |
+    
+    Yao 知言</title>
+  
+    <link rel="shortcut icon" href="/logo.ico">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<script src="/js/pace.min.js"></script>
+
+<meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="Yao 知言" type="application/atom+xml">
+<link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
+
+<body>
+<main class="content">
+  <section class="outer">
+  <article id="post-ARM和x86" class="article article-type-post" itemscope itemprop="blogPost" data-scroll-reveal>
+
+    <div class="article-inner">
+        
+            <header class="article-header">
+                
+  
+    <h1 class="article-title" itemprop="name">
+      CPU架构的小知识：ARM、x86、AMD、Intel
+    </h1>
+  
+  
+
+
+
+
+            </header>
+            
+
+                
+                    <div class="article-meta">
+                        <a href="/2020/06/30/arm-he-x86/" class="article-date">
+  <time datetime="2020-06-30T00:00:00.000Z" itemprop="datePublished">2020-06-30</time>
+</a>
+                            
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E5%85%B4%E8%B6%A3%E7%9F%A5%E8%AF%86/">兴趣知识</a>
+  </div>
+
+                    </div>
+                    
+
+                        
+                            
+
+
+
+
+                                
+
+                                    <div class="article-entry" itemprop="articleBody">
+                                        
+
+
+                                            
+
+                                                
+                                                                    <blockquote>
+<p>CISC(复杂指令集计算机)和RISC(精简指令集计算机)是当前CPU的两种架构。它们的区别在于不同的CPU设计理念和方法。早期的CPU全部是CISC架构，它的设计目的是 CISC要用最少的机器语言指令来完成所需的计算任务。</p>
+<p>RISC和CISC是设计制造微处理器的两种典型技术，虽然它们都是试图在体系结构、操作运行、软件硬件、编译时间和运行时间等诸多因素中做出某种平衡，以求达到高效的目的，但采用的方法不同，因此，在很多方面差异很大。</p>
+</blockquote>
+<a id="more"></a>
+
+<ul>
+<li><p><strong>RISC(精简指令集计算机)     x86</strong></p>
+</li>
+<li><ul>
+<li><p>英特尔Intel首创，AMD拿到授权</p>
+<ul>
+<li><ul>
+<li>后来Intel向64位过渡，开发x64，但不兼容x86，市场反响差<ul>
+<li>AMD 搞了兼容的x86-64，又称为       AMD-64，反向授权给Intel。</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Intel以增加处理器本身复杂度作为代价，去换取更高的性能，不断加入指令集，使得处理器日益庞大</p>
+</li>
+<li><p>PC架构霸主，性能强悍，功耗高</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>CISC(复杂指令集计算机)     ARM</strong></p>
+</li>
+<li><ul>
+<li><p>ARM成立于1991年，授权架构。</p>
+<ul>
+<li><ul>
+<li>苹果、Acorn、VLSI、Technology等公司的合资企业</li>
+</ul>
+</li>
+<li><p>简化架构，仅保留所需要的指令，拥有小体积、高效能、低成本、低耗电，适用移动领域</p>
+</li>
+<li><p>小型设备控制，如硬盘转速控制、电信基地台的计算、汽车喷射引擎的控制、音响系统、相机引擎、电动机具的控制等等</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>mips</strong></p>
+</li>
+<li><ul>
+<li>学院派的cpu，授权门槛极低，因此很多厂家都做mips或者mips衍生架构<ul>
+<li>我们平时接触到的mips架构cpu主要用在嵌入式领域，比如路由器。</li>
+<li>纯计算能力很强</li>
+<li>中国的龙芯，其loongisa架构其实是mips的扩展</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>参考资料</p>
+<ul>
+<li><a href="https://www.cnblogs.com/CZM-/p/9611312.html" target="_blank" rel="noopener">ARM与X86 CPU架构区别</a></li>
+</ul>
+
+                                                                        
+                                    </div>
+                                    <footer class="article-footer">
+                                        <a data-url="http://yoursite.com/2020/06/30/arm-he-x86/" data-id="ckwcxu27i0003m4rh9vhmfgm6" class="article-share-link">
+                                            分享
+                                        </a>
+                                        
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%95%B0%E7%A0%81/" rel="tag">数码</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/" rel="tag">计算机</a></li></ul>
+
+                                    </footer>
+
+    </div>
+
+    
+        
+  <nav class="article-nav">
+    
+      <a href="/2020/07/22/zettelkasten-qia-pian-he-bi-ji-fa/" class="article-nav-link">
+        <strong class="article-nav-caption">前一篇</strong>
+        <div class="article-nav-title">
+          
+            Zettelkasten 卡片盒笔记法与我的笔记流程
+          
+        </div>
+      </a>
+    
+    
+      <a href="/2020/05/30/hexo-github-ocean-bo-ke/" class="article-nav-link">
+        <strong class="article-nav-caption">后一篇</strong>
+        <div class="article-nav-title">Hexo+Github+Ocean 小白的博客搭建笔记</div>
+      </a>
+    
+  </nav>
+
+
+            
+
+                
+                    
+                        
+  <div class="gitalk" id="gitalk-container"></div>
+  
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+
+  
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+  
+<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.min.js"></script>
+
+  <script type="text/javascript">
+    var gitalk = new Gitalk({
+      clientID: 'eff51e58a92e63d935c8',
+      clientSecret: 'ca464f0634abfaa870f7b1eba2a6996b8009dc81',
+      repo: 'Hexo_Gitalk',
+      owner: 'yaosaid',
+      admin: ['yaosaid'],
+      // id: location.pathname,      // Ensure uniqueness and length less than 50
+      id: md5(location.pathname),
+      distractionFreeMode: false,  // Facebook-like distraction free mode
+      pagerDirection: 'last'
+    })
+
+  gitalk.render('gitalk-container')
+  </script>
+
+                            
+
+</article>
+</section>
+  <footer class="footer">
+  <div class="outer">
+    <div class="float-right">
+      <ul class="list-inline">
+  
+    <li><i class="fe fe-smile-alt"></i> <span id="busuanzi_value_site_uv"></span></li>
+  
+    <li><i class="fe fe-bookmark"></i> <span id="busuanzi_value_page_pv"></span></li>
+  
+</ul>
+    </div>
+    <ul class="list-inline">
+      <li>&copy; 2021 Yao 知言</li>
+      <li>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></li>
+      <li>Theme  <a href="https://github.com/zhwangart/hexo-theme-ocean" target="_blank" rel="noopener">Ocean</a></li>
+    </ul>
+  </div>
+</footer>
+
+</main>
+<aside class="sidebar">
+  <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+    <div class="logo">
+      <a href="/"><img src="/images/face.svg" alt="Yao 知言"></a>
+    </div>
+  
+  <ul class="nav nav-main">
+    
+      <li class="nav-item">
+        <a class="nav-item-link" href="/">主页</a>
+      </li>
+    
+      <li class="nav-item">
+        <a class="nav-item-link" href="/archives">归档</a>
+      </li>
+    
+      <li class="nav-item">
+        <a class="nav-item-link" href="/gallery">相册</a>
+      </li>
+    
+      <li class="nav-item">
+        <a class="nav-item-link" href="/categories">分类</a>
+      </li>
+    
+      <li class="nav-item">
+        <a class="nav-item-link" href="/about">关于</a>
+      </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link nav-item-search" title="搜索">
+        <i class="fe fe-search"></i>
+        搜索
+      </a>
+    </li>
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      <div class="totop" id="totop">
+  <i class="fe fe-rocket"></i>
+</div>
+    </li>
+    <li class="nav-item">
+      
+        <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
+          <i class="fe fe-feed"></i>
+        </a>
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+</aside>
+
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+  
+<script src="/js/tocbot.min.js"></script>
+
+  <script>
+    // Tocbot_v4.7.0  http://tscanlin.github.io/tocbot/
+    tocbot.init({
+      tocSelector: '.tocbot',
+      contentSelector: '.article-entry',
+      headingSelector: 'h1, h2, h3, h4, h5, h6',
+      hasInnerContainers: true,
+      scrollSmooth: true,
+      positionFixedSelector: '.tocbot',
+      positionFixedClass: 'is-position-fixed',
+      fixedSidebarOffset: 'auto',
+    });
+  </script>
+
+
+
+<script src="/js/ocean.js"></script>
+
+
+</body>
+</html>
